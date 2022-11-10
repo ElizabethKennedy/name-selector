@@ -1,11 +1,11 @@
-This app uses Math.floor, Math.random, and array.length to randomly generate a name from an array list of students enrolled in the Node-10 Web Development class at TrueCoders. Instructor, TA, and other administrative staff names are included in the list, but they can choose to decline if they wish. Students have to at least try whatever the thing is that we collectively choose for the purposes of randomly generating a name.
+This app uses Math.floor, Math.random, and array.length to randomly generate a name from an array list of students enrolled in the Node-10 Web Development class at TrueCoders. Instructor, TA, and other administrative staff names are included on the list, but those individuals can choose to decline if they wish. Students have to at least try whatever the thing is that we collectively choose for the purposes of randomly generating a name.
 
 
 EXAMPLE: (Hunter): "Okay, does anyone want to share their solution to Exercise 3 with the rest of the class? It's fine if you haven't completed it yet, maybe just walk us through your thought process, or show us where you are at currently."
 
 (The rest of the class): Silence. The deafening sound of utter silence.   Crickets. More crickets. The silence seems to go on forever. No one says anything.
 
-(Hunter): "Anyone?" "Bueller? Bueller?"
+(Hunter): "Anyone?" (More silence.) "Bueller? Bueller?"
 
 (Sorry, I couldn't resist making a reference to the iconic 80's film Ferris Bueller's Day Off.)
 

@@ -22,7 +22,9 @@ function shake(){
  //generate randomized drawing of a name
  function getName(){
      //array of names
-     let names = ['Hunter Andersen', 'Harrison Fangmeier', 'Seth Bowman', 'Tyson Lind', 'Luis Cazares', 'Elizabeth Kennedy', 'Jason Thomas', 'Aiyana Urbina-Hudson', 'Colin Kyger', 'Reece Martin', 'Luke Schuering', 
+     let names = ['Hunter Andersen', 'Harrison Fangmeier', 'Seth Bowman', 
+     'Tyson Lind', 'Luis Cazares', 'Elizabeth Kennedy', 'Jason Thomas', 'Aiyana Urbina-Hudson', 
+     'Colin Kyger', 'Reece Martin', 'Luke Schuering', 
     'Alex Minnelli', 'Denis Pugliese', 'Luke Dixon', 'Joshua Paul', 'Thomas Williams', 
     'Hasheem Reddick', 'Sofia Abbas', 'Darian Southerland']
  
