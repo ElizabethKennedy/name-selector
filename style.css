@@ -1,4 +1,4 @@
-shake{
+.shake{
     /* Start the animation of the button and make the animation last for 1 second */
     animation: shake 1s;
 }
