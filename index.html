@@ -6,17 +6,26 @@
         <link rel="stylesheet" href="style.css">
         <!-- font -->
         <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@600&display=swap" rel="stylesheet">
-        <title>Random Name Selector</title>
+        <title>Find your spirit animal!</title>
     </head>
     <body>
         <div class="center">
-            <h1>Draw a name from out of the magic hat:</h1>
-            <button class="btn btn-primary" onClick="shake()">Shake</button>
+            <h1>Enter your name below:</h1>
+            <input 
+            type="text"
+            id="inputName"
+             /><br />
+            <button class="btn btn-primary" onClick="shakeAndRender()">Shake</button>
         </div>
-            <div class="row">
-                <img id="hat"  alt="Top Hat" src="./images/magic-top-hat-no-bkgrd.png">
+            <div class="flex-box-one">
+                <div id="hat">
+                    <img id="hat"  alt="Top Hat" src="./images/magic-top-hat-no-bkgrd.png">
+                </div>
                 <div id="name">
-
+                    <p id="p1"></p>
+                    <p id="p2"></p>
+                    <img id="spiritAnimalImg" src="#" />
+                    <p id="p3"></p>
                 </div>
             </div>
 
